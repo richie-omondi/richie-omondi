@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richie-omondi
 - 👀 I’m interested in blockchain technology, cloud technology, AI and the occasional design challenge
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development (HTML & CSS)
 - 💞️ I’m looking to collaborate on blockchain develpoment projects
 - 📫 How to reach me: richieorido@gmail.com.
 
