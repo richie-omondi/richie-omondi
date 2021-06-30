@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richie-omondi
-- 👀 I’m interested in blockchain technology, cloud technology, AI and the occasional design challenge
+- 👀 I’m interested in cloud technology, blockchain technology, AI and the occasional design challenge
 - 🌱 I’m currently learning Javascript, data structures and algorithms.
-- 💞️ I’m looking to collaborate on blockchain develpoment projects
+- 💞️ I’m looking to collaborate on blockchain develpoment and AI(oracle) integration projects
 - 📫 How to reach me: richieorido@gmail.com.
 
 <!---
