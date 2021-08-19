@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richie-omondi
 - 👀 I’m interested in cloud technology, blockchain technology, AI and the occasional design challenge
-- 🌱 I’m currently learning Javascript, data structures and algorithms and how to work with APIs via Node.js, Express.js and Mongo DB
+- 🌱 I’m currently learning Web scraping
 - 💞️ I’m looking to collaborate on blockchain projects
 - 📫 How to reach me: richieorido@gmail.com.
 
