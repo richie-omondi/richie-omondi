@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richie-omondi
-- 👀 I’m interested in cloud technology and full-stack software development
+- 👀 I’m interested in mobile app development and full-stack software development
 - 🌱 I’m currently learning full-stack software development
 - 💞️ I’m looking forward to learning Mobile Development
 - 📫 How to reach me: richieorido@gmail.com.
