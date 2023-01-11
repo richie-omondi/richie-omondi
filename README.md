@@ -1,7 +1,7 @@
 
 ## Intro  
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/richie-omondi/richie-omondi/blob/main/header.png?raw=true" align="center" style="width: 100%" />
 </div>  
   
 
