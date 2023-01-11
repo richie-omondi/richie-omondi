@@ -111,6 +111,8 @@
 
 </td></tr></table>  
 
+##Random jokes (if you get them 😉)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
