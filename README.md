@@ -111,6 +111,9 @@
 
 </td></tr></table>  
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=richie-omondi&&style=flat-square" align="center" />
