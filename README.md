@@ -115,7 +115,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## And a joke to lighten the mood 😉
+## Aand a joke to lighten the mood 😉
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
