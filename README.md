@@ -111,13 +111,15 @@
 
 </td></tr></table>  
 
-## Random jokes (if you get them 😉)
+## Some wise words 🙂
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## And a joke to lighten the mood 😉
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## ...Aaand some wise words to go with it 🙂
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
