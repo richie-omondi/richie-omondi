@@ -115,6 +115,10 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+## ...Aaand some wise words to go with it 🙂
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 <div align="center">
