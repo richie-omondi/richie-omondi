@@ -11,7 +11,7 @@
 - 🚀  I’m currently working on completing [ALX SE 2023](https://www.alxafrica.com/software-engineering-2022/) and [CS50](https://cs50.harvard.edu/x/2023/)   
   
 
-- 💥 I'm currently Full-Stack Software Engineering  
+- 💥 I'm currently learning C 
   
 
 - 👫 I'm looking to collaborate on Full-Stack Software projects   
