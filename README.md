@@ -53,13 +53,13 @@
 
 
 ## My Skill Set  
-<table><tr><td>
+<table><tr><td valign="top" width="20%">
    ### Skills
    <div align="center">  
    <a href="https://www.tutorialspoint.com/cprogramming/c_overview.htm" target="_blank"><img style="margin: 10px" src="https://drive.google.com/file/d/1nRtMyrMfNhLUsg5SZHmYfV-KFhcJJqYk/view?usp=sharing" alt="C" height="50" /></a>
-   </div></td></tr>
+   </div></td>
 
-  <tr><td valign="top" width="25%">
+    <td valign="top" width="20%">
     ### Frontend  
     <div align="center">  
     <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -70,7 +70,7 @@
      <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://drive.google.com/file/d/1cAzGcUqmnhgFCdTJwgXotiWirZXgoOmE/view?usp=sharing" alt="Figma" height="50" /></a>
     </div></td>
     
-    <td valign="top" width="25%">
+    <td valign="top" width="20%">
     ### Backend  
     <div align="center">  
     <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"   alt="MongoDB" height="50" /></a>  
@@ -87,7 +87,7 @@
     </div>
     </td>
   
-    <td valign="top" width="25%">
+    <td valign="top" width="20%">
     ### DevOps  
     <div align="center">  
     <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -100,7 +100,7 @@
     <a href="https://www.travis-ci.com/" target="_blank"><img style="margin: 10px" src="https://drive.google.com/file/d/14G-7Cmw7BkY1KjtSrVX3ki_Lz6iBdfdi/view?usp=sharing" alt="Travis CI" height="50" /></a>
     </div></td>
   
-    <td valign="top" width="25%">
+    <td valign="top" width="20%">
     ### Data Analysis  
     <div align="center">  
     <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
