@@ -49,12 +49,19 @@
 </div>  
   
 
-<br/>  
+<br/> 
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="25%">
 
+<tr><td valign="top" width="25%">
+### Skills
+<div align="center">  
+<a href="https://www.tutorialspoint.com/cprogramming/c_overview.htm" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="C" height="50" /></a>
+</div>
+</td>
+</tr>
 
 
 ### Frontend  
