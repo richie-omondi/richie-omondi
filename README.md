@@ -56,7 +56,7 @@
 <table><tr><td valign="top" width="20%">
    ### Skills
    <div align="center">  
-   <a href="https://www.tutorialspoint.com/cprogramming/c_overview.htm" target="_blank"><img style="margin: 10px" src="https://drive.google.com/file/d/1nRtMyrMfNhLUsg5SZHmYfV-KFhcJJqYk/view?usp=sharing" alt="C" height="50" /></a>
+   <a href="https://www.tutorialspoint.com/cprogramming/c_overview.html" target="_blank"><img style="margin: 10px" src="https://drive.google.com/file/d/1nRtMyrMfNhLUsg5SZHmYfV-KFhcJJqYk/view?usp=sharing" alt="C" height="50" /></a>
    </div></td>
 
     <td valign="top" width="20%">
@@ -110,9 +110,6 @@
     <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://drive.google.com/file/d/1b4V0ptwwKztgJeCnbTnefDtxz1WyC1eg/view?usp=sharing" alt="Numpy" height="50" /></a>
     <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Pandas" height="50" /></a>
       </div></td></tr></table>  
-
-<!--START_SECTION:Dev_Activity-->
-<!--END_SECTION:Dev_Activity-->
 
 ## Some wise words 🙂
 
