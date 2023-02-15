@@ -54,12 +54,15 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="20%">
+
 ### Skills
 <div align="center">  
 <a href="https://www.tutorialspoint.com/cprogramming/c_overview.html" target="_blank"><img style="margin: 10px" src="https://drive.google.com/file/d/1nRtMyrMfNhLUsg5SZHmYfV-KFhcJJqYk/view?usp=sharing" alt="C" height="50" /></a>
-</div></td>
+</div>
 
-<td valign="top" width="20%">
+</td><td valign="top" width="20%">
+
+
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -68,9 +71,11 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"   alt="JavaScript" height="50" /></a> 
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://drive.google.com/file/d/1cAzGcUqmnhgFCdTJwgXotiWirZXgoOmE/view?usp=sharing" alt="Figma" height="50" /></a>
-</div></td>
-    
-<td valign="top" width="20%">
+</div>
+
+</td><td valign="top" width="20%">
+
+
 ### Backend  
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"   alt="MongoDB" height="50" /></a>  
@@ -84,9 +89,11 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://drive.google.com/file/d/1Mf4_5QUNVokvpm324ug-vk5Cv5So7Sc8/view?usp=sharing" alt="PostgreSQL" height="50" /></a>
 <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://drive.google.com/file/d/1Mf4_5QUNVokvpm324ug-vk5Cv5So7Sc8/view?usp=sharing" alt="Heroku" height="50" /></a>
-</div></td>
-  
-<td valign="top" width="20%">
+</div>
+
+</td><td valign="top" width="20%">
+
+
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -97,9 +104,11 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 <a href="https://www.travis-ci.com/" target="_blank"><img style="margin: 10px" src="https://drive.google.com/file/d/14G-7Cmw7BkY1KjtSrVX3ki_Lz6iBdfdi/view?usp=sharing" alt="Travis CI" height="50" /></a>
-</div></td>
-  
-<td valign="top" width="20%">
+</div>
+
+</td><td valign="top" width="20%">
+
+
 ### Data Analysis  
 <div align="center">  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
@@ -108,7 +117,9 @@
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://drive.google.com/file/d/1b4V0ptwwKztgJeCnbTnefDtxz1WyC1eg/view?usp=sharing" alt="Numpy" height="50" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Pandas" height="50" /></a>
-</div></td></tr></table>  
+</div>
+
+</td></tr></table>  
 
 ## Some wise words 🙂
 
