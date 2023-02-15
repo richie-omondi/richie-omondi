@@ -87,7 +87,7 @@
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://drive.google.com/file/d/1Mf4_5QUNVokvpm324ug-vk5Cv5So7Sc8/view?usp=sharing" alt="PostgreSQL" height="50" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="icons8-postgresql-480.png" alt="PostgreSQL" height="50" /></a>
 <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="icons8-heroku-480.png" alt="Heroku" height="50" /></a>
 </div>
 
