@@ -111,6 +111,9 @@
 
 </td></tr></table>  
 
+<!--START_SECTION:Dev_Activity-->
+<!--END_SECTION:Dev_Activity-->
+
 ## Some wise words 🙂
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
