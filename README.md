@@ -5,13 +5,13 @@
 </div>  
   
 
-### <div align="center">I'm Richard Orido, a software developer 👨‍💻 working remotely since 2020 📆</div>  
+### <div align="center">I'm Richard Orido, a software developer 👨‍💻
   
 
-- 🚀  I’m currently working on completing [ALX SE 2023](https://www.alxafrica.com/software-engineering-2022/) and [CS50](https://cs50.harvard.edu/x/2023/)   
+- 🚀  I’m currently working on completing [ALX SE 2023](https://www.alxafrica.com/software-engineering-2022/) and building different types of frontend projects
   
 
-- 💥 I'm currently learning C and Shell scripting
+- 💥 I'm currently learning C and sharpening my frontend skills
   
 
 - 👫 I'm looking to collaborate on Full-Stack Software projects   
