@@ -125,18 +125,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=richie-omondi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=richie-omondi&langs_count=10)
 
-
-
 ## Some wise words 🙂
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=richie-omondi&&style=flat-square" align="center" />
-</div>  
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes) 
 
 ## 😉😉
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=richie-omondi&&style=flat-square" align="center" />
+</div> 
 <br />
