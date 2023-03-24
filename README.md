@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Richard Orido, a software developer 👨‍💻
+### <div align="center">I'm Richard Orido, a software engineer 👨‍💻
   
 
 - 🚀  I’m currently working on completing [ALX SE 2023](https://www.alxafrica.com/software-engineering-2022/) and building different types of frontend projects
