@@ -8,10 +8,10 @@
 ### <div align="center">I'm Richard Orido, a software engineer 👨‍💻
   
 
-- 🚀  I’m currently working on completing [ALX SE 2023](https://www.alxafrica.com/software-engineering-2022/) and building different types of frontend projects
+- 🚀  I’m currently working on completing [ALX SE 2023](https://www.alxafrica.com/software-engineering-2022/).
   
 
-- 💥 I'm currently learning C and sharpening my frontend skills
+- 💥 I'm currently learning C and sharpening my NodeJS/Express skills so I can design and build APIs 
   
 
 - 👫 I'm looking to collaborate on Full-Stack Software projects   
