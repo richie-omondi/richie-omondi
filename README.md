@@ -11,7 +11,7 @@
 - 🚀  I’m currently working on completing [ALX SE 2023](https://www.alxafrica.com/software-engineering-2022/).
   
 
-- 💥 I'm currently learning C and sharpening my NodeJS/Express skills so I can design and build APIs 
+- 💥 I'm currently learning C
   
 
 - 👫 I'm looking to collaborate on Full-Stack Software projects   
