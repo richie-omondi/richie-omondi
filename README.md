@@ -17,7 +17,7 @@
 - 👫 I'm looking to collaborate on Full-Stack Software projects   
   
 
-- ❓ Ask me about anything related to Full-Stack Development
+- ❓ Ask me about anything related to Front-End development
   
 
 - 👀 I'm looking forward to learning Mobile Development  
