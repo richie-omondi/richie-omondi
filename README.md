@@ -8,7 +8,7 @@
 ### <div align="center">Software engineer 👨‍💻
   
 
-- 🚀  I’m currently working on completing [ALX SE 2023](https://www.alxafrica.com/software-engineering-2022/).
+- 🚀  I’m currently working on completing [ALX SE 2023](https://www.alxafrica.com/software-engineering-2022/) and contributing to open source.
   
 
 - 💥 I'm currently learning C, Python, and Java
