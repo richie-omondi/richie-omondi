@@ -126,6 +126,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=richie-omondi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=richie-omondi&langs_count=10)
 
+[![An image of @richieomondi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/richieomondi)](https://holopin.io/@richieomondi)
+
 ## 🙂🙂
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes) 
