@@ -8,19 +8,19 @@
 ### <div align="center">Software engineer 👨‍💻
   
 
-- 🚀  I’m currently working on completing [ALX SE 2023](https://www.alxafrica.com/software-engineering-plus/) and contributing to open source.
+- 🚀  I’m currently working on completing [ALX SE 2023](https://www.alxafrica.com/software-engineering-plus/) and contributing to open source (specifically [SurrealDB](https://github.com/surrealdb/surrealdb)).
   
 
-- 💥 I'm currently learning C, Python, and Java
+- 💥 I'm currently learning C and Python
   
 
-- 👫 I'm looking to collaborate on Full-Stack Software projects   
+- 👫 I'm looking to collaborate on front-end projects and contribute to [SurrealDB](https://github.com/surrealdb/surrealdb)
   
 
-- ❓ Ask me about anything related to Front-End development
+- ❓ Ask me about anything related to front-end development and contributing to open source 
   
 
-- 👀 I'm looking forward to learning Mobile Development  
+- 👀 I'm looking forward to learning Rust and Java
   
 
 - ⚡ Fun fact: I use tabs over spaces  
