@@ -8,7 +8,7 @@
 ### <div align="center">Software engineer 👨‍💻
   
 
-- 🚀  I’m currently working on completing [ALX SE 2023](https://www.alxafrica.com/software-engineering-plus/) and contributing to open source (specifically [SurrealDB](https://github.com/surrealdb/surrealdb)).
+- 🚀  I’m currently working on contributing to open source (specifically [SurrealDB](https://github.com/surrealdb/surrealdb)).
   
 
 - 💥 I'm currently learning C and Python
