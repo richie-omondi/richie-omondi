@@ -8,16 +8,16 @@
 ### <div align="center">Software engineer 👨‍💻
   
 
-- 🚀  I’m currently working on contributing to open source (specifically [SurrealDB](https://github.com/surrealdb/surrealdb)).
+- 🚀  I’m currently working on contributing to open source.
   
 
 - 💥 I'm currently learning C and Python
   
 
-- 👫 I'm looking to collaborate on front-end projects and contribute to open-source
+- 👫 I'm looking to collaborate on full-stack projects and contribute to open-source
   
 
-- ❓ Ask me about anything related to front-end development and contributing to open-source 
+- ❓ Ask me about anything related to backend development and contributing to open-source 
   
 
 - 👀 I'm looking forward to learning Rust and Java
