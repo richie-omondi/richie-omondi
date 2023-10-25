@@ -31,8 +31,6 @@
 
 <br/>  
 
-## Hacktoberfest 2023
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/richie-omondi" target="_blank">
