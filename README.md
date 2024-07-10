@@ -8,16 +8,16 @@
 ### <div align="center">Software engineer 👨‍💻
   
 
-- 🚀  I’m currently working on contributing to open source.
+- 🚀  I’m currently working on completing ALX SE Cohort 22.
   
 
-- 💥 I'm currently learning C and Python
+- 💥 I'm currently learning C, Python, and Javascript.
   
 
-- 👫 I'm looking to collaborate on full-stack projects and contribute to open-source
+- 👫 I'm looking to collaborate on full-stack projects and contribute to open-source.
   
 
-- ❓ Ask me about anything related to backend development and contributing to open-source 
+- ❓ Ask me about anything related to backend development and contributing to open-source.
   
 
 - 👀 I'm looking forward to learning Rust and Java
