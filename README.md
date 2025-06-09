@@ -8,10 +8,10 @@
 ### <div align="center">Software engineer 👨‍💻
   
 
-- 🚀  I’m currently working on completing ALX SE Cohort 22.
+- 🚀  I’m currently working on enhancing my AI fluency.
   
 
-- 💥 I'm currently learning C, Python, and Javascript.
+- 💥 I'm currently learning how to build and work with Generative AI on AWS.
   
 
 - 👫 I'm looking to collaborate on full-stack projects and contribute to open-source.
@@ -20,7 +20,7 @@
 - ❓ Ask me about anything related to backend development and contributing to open-source.
   
 
-- 👀 I'm looking forward to learning Rust and Java
+- 👀 I'm looking forward to up skilling in backend development.
   
 
 - ⚡ Fun fact: I use tabs over spaces  
