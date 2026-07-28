@@ -8,19 +8,19 @@
 ### <div align="center">Software engineer 👨‍💻
   
 
-- 🚀  I’m currently learning how to implement AI into my SE projects.
+- 🚀  I’m currently transitioning to cybersecurity.
   
 
-- 💥 I'm going through the [PLP SD program](https://www.powerlearnprojectafrica.org/programs/1-million-devs-for-africa)
+- 💥 I'm going through the IBM x PLP Tech Training Program in Cybersecurity.
   
 
 - 👫 I'm looking to collaborate on full-stack projects and contribute to open-source.
   
 
-- ❓ Ask me about anything related to backend development and contributing to open-source.
+- ❓ Ask me about anything related full-stack development and contributing to open-source.
   
 
-- 👀 I'm looking forward to up skilling in mobile development.
+- 👀 I'm looking forward to up-skilling in mobile development.
   
 
 - ⚡ Fun fact: I use tabs over spaces  
