@@ -11,16 +11,16 @@
 - 🚀  I’m currently transitioning to cybersecurity.
   
 
-- 💥 I'm going through the IBM x PLP Tech Training Program in Cybersecurity.
+- 💥 I'm going through the IBMxMCS Tech Training Program in Cybersecurity as well as the i3 Graduate Trainee Program in Cybersecurity.
   
 
-- 👫 I'm looking to collaborate on full-stack projects and contribute to open-source.
+- 👫 I'm looking to collaborate on cybersecurity projects.
   
 
-- ❓ Ask me about anything related full-stack development and contributing to open-source.
+- ❓ Ask me about anything related to cybersecurity (mainly defensive and blue-teaming).
   
 
-- 👀 I'm looking forward to up-skilling in mobile development.
+- 👀 I'm looking forward to upskilling in Agentic AI development.
   
 
 - ⚡ Fun fact: I use tabs over spaces  
